@@ -1,4 +1,4 @@
-# candy-crush
+# emerald-crush
 A vanilla JavaScript Game inspired by Candy Crush - Built for learning purposes
 
 This game was made using this tutorial: https://www.youtube.com/watch?v=XD5sZWxwJUk
