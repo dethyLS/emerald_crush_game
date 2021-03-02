@@ -1,7 +1,7 @@
 # emerald-crush
 A vanilla JavaScript Game inspired by Candy Crush - Built for learning purposes
 
-This game was made using this tutorial: https://www.youtube.com/watch?v=XD5sZWxwJUk
+This game was made using a tutorial made by Ania Kubow: https://www.youtube.com/watch?v=XD5sZWxwJUk
 
 
 ### MIT Licence
